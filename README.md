@@ -1,23 +1,20 @@
 x11_hash (v1.4)
 ===========================
 
-Python module for Dash's X11 hashing.
-
+Python module for Dash's X11 hashing for Ubuntu 22.04 and Python 3.10
 
 Install
 -------
 
-Python 2.7 is required as well as gcc.
+```
+apt install gcc python3-dev python3-pip
 
-    $ python setup.py install
+cd /home
+git clone https://github.com/dashdot/python-x11_hash.git
+cd python-x11_hash
 
-
-Test
--------
-
-After installation, test hash.
-
-    $ python test.py
+python3 setup.py install
+```
 
 Credits
 -------
