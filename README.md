@@ -1,7 +1,7 @@
 x11_hash (v1.4)
 ===========================
 
-Python module for Dash's X11 hashing for Ubuntu 22.04 and Python 3.10
+Python module for Dash's X11 hashing on Ubuntu 22.04 and Python 3.10
 
 Install
 -------
@@ -15,6 +15,11 @@ cd python-x11_hash
 
 python3 setup.py install
 ```
+
+ElectrumX
+---------
+
+Setup script for ElextrumX: https://github.com/SeekoeiD/update-and-run-scripts/blob/main/electrumx-setup.sh
 
 Credits
 -------
