@@ -19,7 +19,7 @@ python3 setup.py install
 ElectrumX
 ---------
 
-Setup script for ElextrumX: https://github.com/SeekoeiD/update-and-run-scripts/blob/main/electrumx-setup.sh
+Setup script for ElextrumX: https://github.com/SeekoeiD/electrumx-setup
 
 Credits
 -------
